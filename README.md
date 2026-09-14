@@ -12,7 +12,8 @@
     </a>
   </p>
 </div>
-
+ <h3>On 13/9/2026, the ChucnyServer project had became nearly perfect, and had implemented almost every single feature in the game. As a result of this, the project owner, 
+ <code>@chucny</code> teamed up with <code>@bracky-dev</code>, moving the project to server called <strong>Windstock</strong>. https://github.com/project-windstock/windstock</h3>
 
 <img src="screenshots/03_SCROT" style="width: 200px;"></img>
 <img src="screenshots/02_SCROT" style="width: 200px;"></img>
